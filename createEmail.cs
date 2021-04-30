@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿//STOLEN FROM:
+//http://www.primordialcode.com/blog/post/create-an-eml-file-the-easy-way
+
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Mail;
