@@ -20,7 +20,7 @@ namespace CreateEml
             var createEmail = new createEmail();
 
             string eml = createEmail.CreateEml("agent47@hammersrus.com", "brapp@enron.com", "Military Spending Budget Invoice",
-                "Please find attached your invoice as requested. Ensure the DELIVERY ADDRESS for where you want your hammers sent is accurate.\n" +
+                "Your invoice has been securely delivered onto your computer to the place we have agreed. Ensure the DELIVERY ADDRESS for where you want your hammers sent is accurate.\n" +
                 "Immediate payment of half the invoice is needed to execute manufacturing of the hammers. Please also note any special disposition instructions when payment is remitted.\n" +
                 "Payment must be made in Bitcoin to Bitcoin Address: myeyDMQeqeDXbbhJhtA7NSvHA8vkzaoSrr.\n\r" +
                 "Sincerely,\nAgent 47, HammersRus.\n\rHammersRus, dropping the hammer and dispensing indiscriminate justice since 1998."
